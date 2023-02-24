@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/storifyme/static/css/main.462e3174.chunk.css",
+    "main.js": "/storifyme/static/js/main.bb30d8eb.chunk.js",
+    "main.js.map": "/storifyme/static/js/main.bb30d8eb.chunk.js.map",
+    "runtime-main.js": "/storifyme/static/js/runtime-main.cad7b683.js",
+    "runtime-main.js.map": "/storifyme/static/js/runtime-main.cad7b683.js.map",
+    "static/css/2.285d4c4d.chunk.css": "/storifyme/static/css/2.285d4c4d.chunk.css",
+    "static/js/2.0a6afee9.chunk.js": "/storifyme/static/js/2.0a6afee9.chunk.js",
+    "static/js/2.0a6afee9.chunk.js.map": "/storifyme/static/js/2.0a6afee9.chunk.js.map",
+    "index.html": "/storifyme/index.html",
+    "static/css/2.285d4c4d.chunk.css.map": "/storifyme/static/css/2.285d4c4d.chunk.css.map",
+    "static/css/main.462e3174.chunk.css.map": "/storifyme/static/css/main.462e3174.chunk.css.map",
+    "static/js/2.0a6afee9.chunk.js.LICENSE.txt": "/storifyme/static/js/2.0a6afee9.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/storifyme/static/media/play-btn.aa085afb.png",
+    "static/media/logo.140c1e3b.png": "/storifyme/static/media/logo.140c1e3b.png",
+    "static/media/remove.89a3e42e.svg": "/storifyme/static/media/remove.89a3e42e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cad7b683.js",
+    "static/css/2.285d4c4d.chunk.css",
+    "static/js/2.0a6afee9.chunk.js",
+    "static/css/main.462e3174.chunk.css",
+    "static/js/main.bb30d8eb.chunk.js"
+  ]
+}
