@@ -1,0 +1,121 @@
+.icon-container{  
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+    --antd-wave-shadow-color: #1890ff;
+    text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    font-family: Circular Std Bold;
+    visibility: visible;
+    cursor: url("data:image/svg+xml;charset=utf-8,%3Csvg height='20pt' viewBox='-75 0 512 512' width='20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M357.973 335.36L27.309 4.69A15.863 15.863 0 0016 0C7.168 0 0 7.168 0 16v480c0 8.832 7.168 16 16 16a16.1 16.1 0 0011.52-4.887l139.285-144.445h179.863c8.832 0 16-7.168 16-16 0-4.27-1.664-8.3-4.695-11.309zm0 0' stroke='%23fff' stroke-width='28'/%3E%3C/svg%3E"),auto;
+    user-select: none;
+    color: rgba(0,0,0,.65);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5;
+    list-style: none;
+    font-feature-settings: "tnum","tnum";
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    display: flex;
+    width: 100%;
+    justify-content: left;
+    padding-top: 3px;
+}
+
+.alignment-icon{
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    --antd-wave-shadow-color: #1890ff;
+    text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    font-family: Circular Std Bold;
+    visibility: visible;
+    user-select: none;
+    color: rgba(0,0,0,.65);
+    font-size: 12px;
+    font-variant: tabular-nums;
+    line-height: 1.5;
+    list-style: none;
+    font-feature-settings: "tnum","tnum";
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    vertical-align: baseline;
+    height: 2.25rem;
+    width: 2.25rem;
+    padding: .5rem;
+    fill: #757575;
+    cursor: pointer;
+    margin-left: 0.5rem;
+    transition: all .1s linear;
+    opacity: 1;
+}
+.alignment-icon:hover{
+  fill: #1890ff;
+}
+
+
+.alignment-icon-disable{
+
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  --antd-wave-shadow-color: #1890ff;
+  text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  font-family: Circular Std Bold;
+  visibility: visible;
+  user-select: none;
+  color: rgba(0,0,0,.65);
+  font-size: 14px;
+  font-variant: tabular-nums;
+  line-height: 1.5;
+  list-style: none;
+  font-feature-settings: "tnum","tnum";
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+  vertical-align: baseline;
+  height: 2.25rem;
+  width: 2.25rem;
+  padding: .5rem;
+  fill: #757575;
+  cursor: pointer;
+  transition: all .1s linear;
+  margin-left: 0.5rem;
+  opacity: 1;
+  opacity: .5;
+  cursor: not-allowed;
+}
+
+.headerTwo .minusIcon{
+  border : 1px solid rgb(216, 214, 214);
+  padding: 5px;
+  margin-top:5px;
+}
+.headerTwo .plusIcon{
+  border : 1px solid rgb(216, 214, 214);
+  padding: 5px;
+  margin-top:5px;
+}
+.headerTwo .inputCount{
+  margin-top: 5px;
+  width: 30px;
+  height: 26px;
+  text-align: center;
+  border: 1px solid rgb(216, 214, 214);
+}
+.headerTwo .deleteIcon{
+  margin-top: 10px;
+  position: absolute;
+  right: 2vw;
+}
+.headerTwo .animateBtn{
+  margin-top: 3px;
+  position: absolute;
+  right: 4vw;
+  font-weight: 500 !important;
+  font-family: sans-serif;
+}
+.headerTwo .animateBtn:hover {
+  transform: scale(1.06);
+}

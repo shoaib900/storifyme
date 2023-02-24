@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="1038px" viewBox="0 0 1920 1038" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>background</title>
+    <defs>
+        <linearGradient x1="-13.8289388%" y1="68.4998328%" x2="141.941732%" y2="47.5488118%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"/>
+            <stop stop-color="#EAF1FE" offset="81.2837298%"/>
+            <stop stop-color="#E6EDFE" offset="100%"/>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="1920" height="1037.16402"/>
+        <linearGradient x1="54.792958%" y1="47.8101045%" x2="8.70411797%" y2="45.0607752%" id="linearGradient-4">
+            <stop stop-color="#164FFF" offset="0%"/>
+            <stop stop-color="#69FF8C" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="14.5818366%" y1="52.982308%" x2="32.8944397%" y2="32.0632548%" id="linearGradient-5">
+            <stop stop-color="#00FFE9" offset="0%"/>
+            <stop stop-color="#3D6DF6" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="29.6075581%" x2="50%" y2="91.1906492%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"/>
+            <stop stop-color="#F8FCFF" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="BG-/-Part2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BG">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"/>
+            </mask>
+            <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"/>
+            <polygon id="Path-3" fill="url(#linearGradient-4)" opacity="0.0155117754" mask="url(#mask-3)" points="1674.66044 0 2576 1009.78267 -328 0"/>
+            <g id="Path-4" opacity="0.6" mask="url(#mask-3)" fill="url(#linearGradient-5)">
+                <g transform="translate(107.142728, -444.794907)" id="Path-2" opacity="0.06">
+                    <path d="M1027.94801,557.974228 L246,2672.33703 C2586.85517,1201.44568 3757.28276,466 3757.28276,466 C3757.28276,466 2847.50451,496.658076 1027.94801,557.974228 Z" transform="translate(2001.641379, 1569.168514) rotate(17.000000) translate(-2001.641379, -1569.168514) "/>
+                </g>
+            </g>
+            <rect id="Rectangle-3" fill="url(#linearGradient-6)" mask="url(#mask-3)" x="0" y="307" width="1920" height="730.31746"/>
+        </g>
+    </g>
+</svg>

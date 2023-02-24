@@ -1,0 +1,47 @@
+@import "~antd/dist/antd.css";
+.context-menu {
+  position: absolute;
+  text-align: center;
+  background: white;
+  z-index: 99;
+  top: 70px;
+  left: 60%;
+  box-shadow: 0 0 8px 0px #dbdbdb;
+  border-radius: 3px;
+  overflow: hidden;
+}
+#abcd {
+  position: relative;
+}
+.context-menu ul {
+  padding: 0px;
+  margin: 0px;
+  min-width: 150px;
+  list-style: none;
+}
+
+.context-menu ul li {
+}
+
+.context-menu ul li a {
+  text-decoration: none;
+  color: rgb(20, 19, 19);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px;
+  font-size: 11px;
+}
+
+.context-menu ul li:hover {
+  background: rgb(238, 238, 238);
+}
+.context-menu ul li a small {
+  color: #cdcdcd;
+}
+.context-menu ul li a span {
+  text-align: left;
+  flex: 1;
+  padding: 0 3px;
+}
